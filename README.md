@@ -1,16 +1,14 @@
 # AI Chatbot Embedded
 
-This is a sample of chatbot UI integrated with OpenAI and embedded solution, built with React, TypeScript, and Vite.
+This is a sample chatbot UI for an embedded solution, integrated with OpenAI and built with React, TypeScript, and Vite.
 
 ## Features
 
 - 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
+- 📦 AI SDK
+- 🤖 OpenAI API integration
 - 🔒 TypeScript by default
 - 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
 
 ## Getting Started
 
